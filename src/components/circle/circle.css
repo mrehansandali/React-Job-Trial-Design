@@ -1,0 +1,67 @@
+/* .circle{
+    border-radius: 50%;
+    background-color: rgb(51, 123, 239);
+    position: absolute;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.8rem;
+    justify-content: center;
+    padding: 1rem;
+    text-align: center;
+}
+.circle h1 {
+    margin: 0;
+}
+.circle p {
+    margin: 0;
+} */
+
+
+
+
+
+/* 
+.polygon{
+    height: 50rem;
+    background-color: blue;
+    color: white;
+    -webkit-clip-path: polygon(59% 17%, 100% 17%, 100% 0%, 0% 0%, 0 18%, 36% 54%);
+    clip-path: polygon(59% 17%, 100% 17%, 100% 0%, 0% 0%, 0 18%, 36% 54%);
+}
+.polygon nav{
+    display: flex;
+    justify-content: flex-end;
+}
+.polygon nav li {
+    list-style-type: none;
+    padding: 1rem 2rem;
+    margin: 0 2rem;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+}
+.polygon .heading{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
+.polygon .heading h1 {
+    font-size: 2rem;
+    margin: 0.2rem;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    margin-left: 6rem;
+    color: yellow;
+}
+.down{
+    background-color: rgb(42, 10, 10);
+    -webkit-clip-path: polygon(39% 53%, 0 30%, 0 100%, 15% 100%);
+clip-path: polygon(39% 53%, 0 30%, 0 100%, 15% 100%);
+} */
